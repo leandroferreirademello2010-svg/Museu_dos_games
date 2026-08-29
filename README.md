@@ -7,4 +7,5 @@
 
 ### Diagrama de classes:
 
-https://github.com/leandroferreirademello2010-svg/Museu_dos_games/blob/main/imagem_2026-08-28_213212349.png?raw=true
+<img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/1f94e2f2-cd29-49fe-8269-01d2f84c803e" />
+
